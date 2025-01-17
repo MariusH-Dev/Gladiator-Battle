@@ -15,6 +15,10 @@ Willkommen zu den **Gladiatoren-Spielen**! Dieses kleine Konsolenprojekt dient a
 
 ---
 
+![Screenshot 2025-01-17 231744](https://github.com/user-attachments/assets/ee9c3519-8ffc-4696-a5ce-dd48d4f06ab1)
+
+---
+
 ## Überblick
 
 Dieses Projekt besteht aus mehreren Klassen, die jeweils eine bestimmte Aufgabe übernehmen:
