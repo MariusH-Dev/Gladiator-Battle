@@ -1,0 +1,85 @@
+# Grundlegende Ignorieren-Regeln
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# User-spezifische Dateien
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Build-Verzeichnisse für verschiedene Plattformen
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# Visual Studio Code Workspace-Dateien
+.vscode/
+.vs
+
+# Distribution Build-Verzeichnisse
+[Dd]ist/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# Paketmanager
+*.nuget/packages/
+
+# Paket spezifische Dateien
+*.nupkg
+*.snupkg
+*.symbols.nupkg
+
+# Verzeichnisse für temporäre Dateien
+temp/
+tmp/
+
+# ASP.NET spezifische Dateien
+*.Publish.xml
+*.pubxml
+*.publishproj
+.nuget/
+
+# Datenbank, Entity Framework, und Cache-Dateien
+*.mdf
+*.ldf
+*.ndf
+*.sdf
+*.cache
+
+# JetBrains Rider spezifische Dateien
+.idea/
+*.sln.iml
+
+# Resharper Dateien
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# VS Code spezifische Dateien
+.vscode/
+
+# Lokale Konfigurationsdateien
+*.local.json
+
+# Docker spezifische Dateien
+docker-compose.override.yml
+.docker/
+
+# Sonstige temporäre Dateien
+*.tmp
+*.diff
+*.patch
+*.orig
+
+# Logdateien
+*.log
+
